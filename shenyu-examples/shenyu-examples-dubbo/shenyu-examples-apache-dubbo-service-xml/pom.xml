@@ -27,8 +27,8 @@
     <artifactId>shenyu-examples-apache-dubbo-service-xml</artifactId>
 
     <properties>
-        <curator.version>5.2.1</curator.version>
-        <nacos-client.version>2.0.4</nacos-client.version>
+        <curator.version>5.4.0</curator.version>
+        <nacos-client.version>2.1.0</nacos-client.version>
         <apache.dubbo.version>2.7.15</apache.dubbo.version>
         <zookeeper.version>3.6.3</zookeeper.version>
     </properties>
