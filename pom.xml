@@ -159,7 +159,7 @@
         <k8s-client.version>17.0.2</k8s-client.version>
         <polaris.version>1.13.0</polaris.version>
         <bytebuddy.version>1.12.6</bytebuddy.version>
-        <spring-ldap.version>2.3.4.RELEASE</spring-ldap.version>
+        <spring-ldap.version>3.3.4</spring-ldap.version>
         <jaxb.api.version>2.3.1</jaxb.api.version>
         <mail.version>1.6.2</mail.version>
         <docker-maven-plugin.version>0.40.1</docker-maven-plugin.version>
